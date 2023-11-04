@@ -203,4 +203,9 @@ const HomePage: React.FC = () => {
   );
 };
 
+
+
+//write a date method that outputs the current date in java
+
+
 export default HomePage;
